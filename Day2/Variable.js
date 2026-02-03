@@ -41,6 +41,6 @@ console.log(house);
 //const
 const animals="cat"
 console.log(animals);
-var animal="donkey"
+var animal="monkey"
 console.log(animal);
 
