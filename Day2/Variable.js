@@ -44,3 +44,12 @@ console.log(animals);
 var animal="monkey"
 console.log(animal);
 
+//type of variable
+var i = "Bala"
+console.log(typeof(i));
+
+var i=10
+console.log(typeof(i));
+
+var i=false
+console.log(typeof(i));
