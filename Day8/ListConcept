@@ -1,0 +1,13 @@
+let names = ["Bala", "John", "Vijay", "Bala",23, true]
+console.log(names);
+console.log(names[3]);
+let uniqueNames=[];
+for(let i=0;i<names.length;i++)
+{
+    console.log(names[i]);
+    if(uniqueNames.indexOf(names[i])===-1) {
+        uniqueNames.push(names[i])
+
+    }
+}
+console.log(uniqueNames);
